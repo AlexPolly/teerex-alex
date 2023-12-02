@@ -1,0 +1,15 @@
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 55px;
+    padding:   20px;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+.searchbar{
+    width: 900px;
+}
